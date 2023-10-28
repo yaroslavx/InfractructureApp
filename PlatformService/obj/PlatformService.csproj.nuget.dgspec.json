@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yaroslav/Projects/PlatformService/PlatformService.csproj": {}
+    "/Users/yaroslav/Projects/InfrastructureApp/PlatformService/PlatformService.csproj": {}
   },
   "projects": {
-    "/Users/yaroslav/Projects/PlatformService/PlatformService.csproj": {
+    "/Users/yaroslav/Projects/InfrastructureApp/PlatformService/PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yaroslav/Projects/PlatformService/PlatformService.csproj",
+        "projectUniqueName": "/Users/yaroslav/Projects/InfrastructureApp/PlatformService/PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "/Users/yaroslav/Projects/PlatformService/PlatformService.csproj",
+        "projectPath": "/Users/yaroslav/Projects/InfrastructureApp/PlatformService/PlatformService.csproj",
         "packagesPath": "/Users/yaroslav/.nuget/packages/",
-        "outputPath": "/Users/yaroslav/Projects/PlatformService/obj/",
+        "outputPath": "/Users/yaroslav/Projects/InfrastructureApp/PlatformService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yaroslav/.nuget/NuGet/NuGet.Config"

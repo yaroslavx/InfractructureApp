@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cMNi0vAYj6nL6xtuwtdqSZnnw5HStaZnrDykJDrHgMS0KiPWJ/R08VcqLs2VYcKELSvsm/njP1EwEe9IsoYSng==",
+  "dgSpecHash": "ATRuAuEy597g15/gnwbPIFZJKA4WbrJzBTnhjpgfN8TY35dZzlW6NZYebT/QNdeKK8W+u/3E3a47PX65UHH3jQ==",
   "success": true,
-  "projectFilePath": "/Users/yaroslav/Projects/PlatformService/PlatformService.csproj",
+  "projectFilePath": "/Users/yaroslav/Projects/InfrastructureApp/PlatformService/PlatformService.csproj",
   "expectedPackageFiles": [
     "/Users/yaroslav/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
