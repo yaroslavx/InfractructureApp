@@ -17,7 +17,7 @@ spec:
           image: yaroslavx/platformservice:latest
 ---
 apiVersion: v1
-kind: service
+kind: Service
 metadata:
   name: platforms-clusterip-srv
 spec:

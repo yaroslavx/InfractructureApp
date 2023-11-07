@@ -17,7 +17,7 @@ spec:
           image: yaroslavx/commandservice:latest
 ---
 apiVersion: v1
-kind: service
+kind: Service
 metadata:
   name: commands-clusterip-srv
 spec:
