@@ -19,7 +19,16 @@ namespace PlatformService
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase("InMemory"));
+            if(_env.IsProduction())
+            {
+                Console.WriteLine("--> Using SQL Server");
+                services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("PlatformsConnection")));
+            }
+            else
+            {
+                Console.WriteLine("--> Using InMemory DB");
+                services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase("InMemory"));
+            }
 
             services.AddScoped<IPlatformRepo, PlatformRepo>();
 
@@ -56,7 +65,8 @@ namespace PlatformService
                 endpoints.MapControllers();
             });
 
-            PrepDb.PrepPopulation(app);
+            PrepDb.PrepPopulation(app, env.IsProduction());
+
         }
     }
 }
