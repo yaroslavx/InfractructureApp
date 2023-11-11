@@ -22,7 +22,7 @@ namespace PlatformService.SyncDataServices.Http
                 Encoding.UTF8,
                 "application/json");
 
-            var responce = await _httpClient.PostAsync($"{_configuration["CommandService"]}/api/platforms", httpContent);
+            var responce = await _httpClient.PostAsync($"{_configuration["CommandService"]}/api/c/platforms", httpContent);
 
             if(responce.IsSuccessStatusCode) 
             {
