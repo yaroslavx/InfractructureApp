@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ATRuAuEy597g15/gnwbPIFZJKA4WbrJzBTnhjpgfN8TY35dZzlW6NZYebT/QNdeKK8W+u/3E3a47PX65UHH3jQ==",
+  "dgSpecHash": "HnE4N0Ryl1HezHIKqC/SJBFUKf1AoFzl5NOSlVVXEUAcmcljmgzJh82O1nyXTYoFtXu3GXpSNLbJl9Ed9w+2aw==",
   "success": true,
   "projectFilePath": "/Users/yaroslav/Projects/InfrastructureApp/PlatformService/PlatformService.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,7 @@
     "/Users/yaroslav/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/Users/yaroslav/.nuget/packages/rabbitmq.client/6.7.0/rabbitmq.client.6.7.0.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
@@ -56,7 +57,7 @@
     "/Users/yaroslav/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/system.formats.asn1/5.0.0/system.formats.asn1.5.0.0.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/system.identitymodel.tokens.jwt/6.24.0/system.identitymodel.tokens.jwt.6.24.0.nupkg.sha512",
-    "/Users/yaroslav/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/yaroslav/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
@@ -71,6 +72,7 @@
     "/Users/yaroslav/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/Users/yaroslav/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/Users/yaroslav/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
   ],
