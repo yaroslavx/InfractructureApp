@@ -79,3 +79,10 @@
 /Users/yaroslav/Projects/InfrastructureApp/PlatformService/obj/Debug/net7.0/ref/PlatformService.dll
 /Users/yaroslav/Projects/InfrastructureApp/PlatformService/bin/Debug/net7.0/appsettings.Production.json
 /Users/yaroslav/Projects/InfrastructureApp/PlatformService/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/yaroslav/Projects/InfrastructureApp/PlatformService/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/yaroslav/Projects/InfrastructureApp/PlatformService/bin/Debug/net7.0/Grpc.AspNetCore.Server.dll
+/Users/yaroslav/Projects/InfrastructureApp/PlatformService/bin/Debug/net7.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/Users/yaroslav/Projects/InfrastructureApp/PlatformService/bin/Debug/net7.0/Grpc.Core.Api.dll
+/Users/yaroslav/Projects/InfrastructureApp/PlatformService/bin/Debug/net7.0/Grpc.Net.Client.dll
+/Users/yaroslav/Projects/InfrastructureApp/PlatformService/bin/Debug/net7.0/Grpc.Net.ClientFactory.dll
+/Users/yaroslav/Projects/InfrastructureApp/PlatformService/bin/Debug/net7.0/Grpc.Net.Common.dll
